@@ -1,0 +1,1 @@
+<iframe title="Sales Report_Finished" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNTk3OTI1MjMtODNmYi00M2VhLWEyZDUtNmMyNmE0MzczZGYxIiwidCI6ImMyNzg3OTIyLTExZDktNGNhOC1hYWRmLTVlZjdmZjMxYTEyNyJ9" frameborder="0" allowFullScreen="true"></iframe>
